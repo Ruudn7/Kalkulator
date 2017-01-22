@@ -1,0 +1,98 @@
+.center {
+    text-align: center;
+    margin-right: 10px;
+      padding: 0;
+}
+ .container{
+     padding: 0;
+ }
+
+.logosize1{
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+
+}
+
+.top{
+    border-top: solid #808099 0.5px;
+    background-color: #EEE;
+    padding: 0;
+}
+
+.marT{
+    margin-top: 40px; 
+}
+
+.leftSide{
+    background-color: snow;
+    height: 100%;
+    margin-left: 0;
+
+}
+
+.firstBarElement{
+    font-size: 15px;
+    color: grey ;  
+}
+
+.header{
+    margin-top: 30px;
+    margin-bottom: 5px;
+    text-align: left;
+    color: grey;
+    
+}
+
+.headerP{
+    margin-bottom: 50px;
+    color: gray;
+
+}
+
+.centerBox{
+
+    background-color: white;
+    height: 90%;
+    padding: 0px;
+
+}
+
+.boxText{
+    text-align: right;
+    font-size: 15px;
+    color: grey;
+    padding-top: 15px;
+}
+
+.topHeader{
+    font-size: 25px;
+    padding-top: 30px;
+    padding-left: 15px;
+}
+
+.co{
+
+border-right:solid 0.5px #808088;
+padding-left: 5px; 
+}
+
+.color1{
+    background-color: grey;
+    height: 30px;
+}
+.color2{
+    background-color: white;
+    height: 30px;
+}
+
+.calc{
+    width:30px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.top{
+    margin-top: 15px;
+}
